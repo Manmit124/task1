@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.cache/
+results.csv
+.env
+*.log
+
